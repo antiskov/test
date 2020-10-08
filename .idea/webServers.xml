@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="df784f0a-8bd0-49ca-aa86-6985bb6716f5" name="antiskov" url="http://anton-test.div.net.ua">
+        <fileTransfer rootFolder="/home/anton-test.div.ent.ua/public_html" accessType="SFTP" host="anton-test.div.net.ua" port="22" sshConfigId="1e6422e0-eb3a-4fe8-b5bf-0deb05cdb2e4" sshConfig="antonte@anton-test.div.net.ua:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f0be609-f836-42fd-8a35-c4f4d5f657ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$USER_HOME$/Public/evolution-2.0.3" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1iWOpWiNVHhd5xjzD4AXgUAWwkb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f0be609-f836-42fd-8a35-c4f4d5f657ac" name="Default Changelist" comment="" />
+      <created>1602020064322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602020064322</updated>
+      <workItem from="1602020065343" duration="697000" />
+      <workItem from="1602058042611" duration="4990000" />
+      <workItem from="1602148732352" duration="550000" />
+      <workItem from="1602149287662" duration="3261000" />
+      <workItem from="1602153450717" duration="8749000" />
+      <workItem from="1602170345045" duration="49000" />
+      <workItem from="1602170395110" duration="701000" />
+      <workItem from="1602187830177" duration="3526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="297" y="55" width="824" height="691" key="#CLI_Interpreters" timestamp="1602164312258">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="297" y="55" width="824" height="691" key="#CLI_Interpreters/72.27.1294.741@72.27.1294.741" timestamp="1602164312258" />
+    <state x="314" y="59" width="800" height="684" key="#Deployment" timestamp="1602190172122">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="314" y="59" width="800" height="684" key="#Deployment/72.27.1294.741@72.27.1294.741" timestamp="1602190172122" />
+    <state x="312" y="59" width="804" height="684" key="#Options" timestamp="1602165527803">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="312" y="59" width="804" height="684" key="#Options/72.27.1294.741@72.27.1294.741" timestamp="1602165527803" />
+    <state x="364" y="27" width="700" height="741" key="#PHP" timestamp="1602164330225">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="364" y="27" width="700" height="741" key="#PHP/72.27.1294.741@72.27.1294.741" timestamp="1602164330225" />
+    <state x="293" y="49" width="832" height="711" key="#SSH_Configurations" timestamp="1602170369391">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="293" y="49" width="832" height="711" key="#SSH_Configurations/72.27.1294.741@72.27.1294.741" timestamp="1602170369391" />
+    <state x="177" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602164198253">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="177" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1294.741@72.27.1294.741" timestamp="1602164198253" />
+    <state x="172" y="127" width="1094" height="541" key="DiffContextDialog" timestamp="1602165838039">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="172" y="127" width="1094" height="541" key="DiffContextDialog/72.27.1294.741@72.27.1294.741" timestamp="1602165838039" />
+    <state x="172" y="127" width="1094" height="541" key="DirDiffDialog" timestamp="1602170963380">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="172" y="127" width="1094" height="541" key="DirDiffDialog/72.27.1294.741@72.27.1294.741" timestamp="1602170963380" />
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602170391288">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1602170391288" />
+    <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1602152549012">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1602152549012" />
+    <state width="1248" height="172" key="GridCell.Tab.0.center" timestamp="1602152549011">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1602152549011" />
+    <state width="1248" height="172" key="GridCell.Tab.0.left" timestamp="1602152549010">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1602152549010" />
+    <state width="1248" height="172" key="GridCell.Tab.0.right" timestamp="1602152549012">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1602152549012" />
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1602164303878">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1602164303878" />
+    <state x="558" y="297" width="321" height="207" key="WebDeployment.AddServerDialog.v.1" timestamp="1602158587083">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="558" y="297" width="321" height="207" key="WebDeployment.AddServerDialog.v.1/72.27.1294.741@72.27.1294.741" timestamp="1602158587083" />
+    <state x="579" y="295" width="260" height="226" key="publish.login" timestamp="1602190185686">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="579" y="295" width="260" height="226" key="publish.login/72.27.1294.741@72.27.1294.741" timestamp="1602190185686" />
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602164265648">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup/72.27.1294.741@72.27.1294.741" timestamp="1602164265648" />
+    <state x="444" y="311" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602020095886">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="444" y="311" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/72.27.1294.741@72.27.1294.741" timestamp="1602020095886" />
+  </component>
+</project>
