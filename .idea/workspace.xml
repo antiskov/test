@@ -9,10 +9,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f0be609-f836-42fd-8a35-c4f4d5f657ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/BlogController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/pagebuilder/config/container.pbcontent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/pagebuilder/config/files.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/pagebuilder/config/slider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/plugins/pagebuilder/config/text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/newsitem.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/BaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/BaseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/BlogController.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/BlogController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/app.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +84,7 @@
       <workItem from="1602170345045" duration="49000" />
       <workItem from="1602170395110" duration="701000" />
       <workItem from="1602187830177" duration="4082000" />
-      <workItem from="1602242743983" duration="13606000" />
+      <workItem from="1602242743983" duration="20159000" />
     </task>
     <servers />
   </component>

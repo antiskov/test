@@ -1,0 +1,1 @@
+{{--<a href="@makeUrl($item['id'])">{{$item['pagetitle']}}</a>--}}

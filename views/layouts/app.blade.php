@@ -9,11 +9,11 @@
     <nav class="my-2 my-md-0 mr-md-3">
         @foreach($topmenu as $item)
             <a class="p-2 text-dark" href="{{$item['url']}}">{{$item['title']}}</a>
-{{--            @if(is_array($item['children']))--}}
-{{--                @foreach($item['children'] as $item)--}}
-{{--                    <a class="p-2 text-dark" href="{{$item['url']}}">{{$item['title']}}</a>--}}
-{{--                @endforeach--}}
-{{--            @endif--}}
+            @if(is_array($item['children']))
+                @foreach($item['children'] as $item)
+                    <a class="p-2 text-dark" href="{{$item['url']}}">{{$item['title']}}</a>
+                @endforeach
+            @endif
         @endforeach
 
     </nav>
