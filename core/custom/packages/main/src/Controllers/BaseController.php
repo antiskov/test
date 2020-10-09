@@ -45,7 +45,7 @@ class BaseController
             'noIndex' => $this->evo->parseDocumentSource($this->evo->documentObject['noIndex'][1])
         ];
 
-        $this->data['topmenu'] = json_decode($this->evo->runSnippet('DLMenu', ['parents' => 0, 'maxDepth' => 1, 'api' => 1]), true)[0];
+        $this->data['topmenu'] = json_decode($this->evo->runSnippet('DLMenu', ['parents' => 0, 'maxDepth' => 2, 'api' => 1]), true)[0];
     }
 
     public function sendToView()
