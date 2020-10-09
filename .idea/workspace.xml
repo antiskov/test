@@ -8,7 +8,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f0be609-f836-42fd-8a35-c4f4d5f657ac" name="Default Changelist" comment="" />
+    <list default="true" id="6f0be609-f836-42fd-8a35-c4f4d5f657ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/views/blog.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/blogitem.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/contact.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/BaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/BaseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/app.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,11 +36,15 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1iWOpWiNVHhd5xjzD4AXgUAWwkb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
@@ -61,7 +72,8 @@
       <workItem from="1602153450717" duration="8749000" />
       <workItem from="1602170345045" duration="49000" />
       <workItem from="1602170395110" duration="701000" />
-      <workItem from="1602187830177" duration="3526000" />
+      <workItem from="1602187830177" duration="4082000" />
+      <workItem from="1602242743983" duration="9094000" />
     </task>
     <servers />
   </component>
@@ -141,10 +153,10 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="558" y="297" width="321" height="207" key="WebDeployment.AddServerDialog.v.1/72.27.1294.741@72.27.1294.741" timestamp="1602158587083" />
-    <state x="579" y="295" width="260" height="226" key="publish.login" timestamp="1602190185686">
+    <state x="579" y="295" width="260" height="226" key="publish.login" timestamp="1602242859401">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="579" y="295" width="260" height="226" key="publish.login/72.27.1294.741@72.27.1294.741" timestamp="1602190185686" />
+    <state x="579" y="295" width="260" height="226" key="publish.login/72.27.1294.741@72.27.1294.741" timestamp="1602242859401" />
     <state x="382" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602164265648">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
