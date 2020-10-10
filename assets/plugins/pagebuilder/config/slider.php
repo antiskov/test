@@ -17,6 +17,8 @@ return [
                 'image' => [
                     'caption' => 'Caption',
                     'type' => 'image',
+                    'height' => '100px',
+                    'width' => '100px',
                 ],
             ],
         ],

@@ -62,28 +62,27 @@ class BaseController
         $this->evo->addDataToView($this->data);
     }
 
-//    public function DocLister($data)
-//    {
-//        $data['saveDLObject'] = '_DL';
-//        $this->evo->runSnippet('DocLister', $data);
-//        $_DL = $this->evo->getPlaceholder('_DL');
-//        $docs = $_DL->docsCollection()->toArray();
-//
-//        $pages = [];
-//        if(isset($data['paginate']) && $data['paginate'] != '')
-//        {
-//            $paginator = $_DL->getExtender('paginate');
-//            $pages = [
-//                'first' => 1,
-//                'last' => $paginator->totalPage(),
-//                'current' => $paginator->currentPage(),
-//                'total' => $paginator->totalDocs()
-//            ];
-//        }
-//
-//        return [
-//            'docs' => $docs,
-//            'pages' => $pages,
-//        ];
-//    }
+    public function DocLister($data)
+    {
+        $data['saveDLObject'] = '_DL';
+        $this->evo->runSnippet('DocLister', $data);
+        $_DL = $this->evo->getPlaceholder('_DL');
+        $docs = $_DL->docsCollection()->toArray();
+        $pages = [];
+        if(isset($data['paginate']) && $data['paginate'] != '')
+        {
+            $paginator = $_DL->getExtender('paginate');
+            $pages = [
+                'first' => 1,
+                'last' => $paginator->totalPage(),
+                'current' => $paginator->currentPage(),
+                'total' => $paginator->totalDocs()
+            ];
+        }
+
+        return [
+            'docs' => $docs,
+            'pages' => $pages,
+        ];
+    }
 }

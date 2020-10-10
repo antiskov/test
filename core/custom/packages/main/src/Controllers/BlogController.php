@@ -8,10 +8,10 @@ class BlogController extends BaseController
     {
         $this->data['blog'] = 'blog';
 
-//        $this->data['newsitems'] = $this->DocLister([
-//            'parents' => 2,
-//            'display' => 2,
-//            'paginate' => 'pages'
-//        ]);
+        $this->data['newsitems'] = $this->DocLister([
+            'parents' => 2,
+            'display' => 2,
+            'paginate' => 'pages'
+        ]);
     }
 }
