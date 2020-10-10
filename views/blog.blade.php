@@ -8,4 +8,7 @@
             @include('partials.newsitem', ['item' => $item])
         @endforeach
     </div>
+    <nav class="pagination">
+        @include('partials.paginate', ['paginate' => $newsitems['pages']])
+    </nav>
 @endsection
