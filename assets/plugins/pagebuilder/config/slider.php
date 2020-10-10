@@ -10,7 +10,7 @@ return [
         'pbcontent'
     ],
     'fields' => [
-        'title' => [
+        'images' => [
             'caption' => 'Caption',
             'type' => 'group',
             'fields' => [
@@ -30,8 +30,8 @@ return [
             ],
         ],
     ],
-    'prepare' => function($options, $values)
+    'prepare' => function($options, &$values)
     {
-        $values['block_id'] = 'files';
+        $values['block_id'] = 'slider';
     }
 ];

@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('content')
-    <p>Пройшов половину курсу</p>
+    @include('partials.pagebuilder.pbcontent', ['data' => $pagebuilder])
 @endsection

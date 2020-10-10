@@ -30,8 +30,8 @@ return [
             ],
         ],
     ],
-    'prepare' => function($options, $values)
+    'prepare' => function($options, &$values)
     {
-        $values['block_id'] = 'files';
+        $values['block_id'] = 'text';
     }
 ];
