@@ -1,21 +1,19 @@
 @if($paginate['last'] > 1)
-    <ul>
         @if($paginate['current'] == 2)
-            <li><a href="@makeUrl($modx->documentIdentifier)"> < </a></li>
+            <a class="p-2 text-dark" href="@makeUrl($modx->documentIdentifier)"> < </a>
         @elseif($paginate['first'] != $paginate['current'])
-            <li><a href="@makeUrl($modx->documentIdentifier)?page={{ $paginate['current'] - 1}}"> < </a></li>
+            <a class="p-2 text-dark" href="@makeUrl($modx->documentIdentifier)?page={{ $paginate['current'] - 1}}"> < </a>
         @endif
         @for($i = $paginate['first']; $i <= $paginate['last']; $i++)
             @if($i == $paginate['current'])
-                <li class="active">{{ $i }}</li>
+                <span class="p-2 text-success">{{ $i }}</span>
             @else
-                <li><a href="@makeUrl($modx->documentIdentifier)?page={{ $i }}">{{ $i }}</a></li>
+                <a class="p-2 text-dark" href="@makeUrl($modx->documentIdentifier)?page={{ $i }}">{{ $i }}</a>
             @endif
         @endfor
         @if($paginate['last'] == $paginate['current'])
-            <li><span> > </span></li>
+            <span class="p-2 text-success"> > </span>
         @else
-            <li><a href="@makeUrl($modx->documentIdentifier)?page={{ $paginate['current'] + 1}}"> > </a></li>
+            <a class="p-2 text-dark" href="@makeUrl($modx->documentIdentifier)?page={{ $paginate['current'] + 1}}"> > </a>
         @endif
-    </ul>
 @endif

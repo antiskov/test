@@ -1,7 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
-    <div id="ajaxForm">
+    @include('partials.pagebuilder.pbcontent', ['data' => $pagebuilder])
+    <div class="container" id="ajaxForm">
         @include('form.ContactForm')
     </div>
 @endsection

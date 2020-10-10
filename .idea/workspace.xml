@@ -9,13 +9,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f0be609-f836-42fd-8a35-c4f4d5f657ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/BlogitemController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/FormController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/custom/packages/main/plugins/evoAjax.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/custom/packages/main/plugins/evoAjax.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/custom/packages/main/src/MainServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/custom/packages/main/src/MainServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/BlogController.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/BlogController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/blogitem.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/blogitem.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/form.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/form/ContactForm.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/form/ContactForm.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/form/successTpl.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/form/successTpl.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/newsitem.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/newsitem.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/pagebuilder/parts/slider.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/pagebuilder/parts/slider.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/partials/paginate.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/paginate.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +89,8 @@
       <workItem from="1602299189819" duration="45000" />
       <workItem from="1602299463662" duration="950000" />
       <workItem from="1602320229581" duration="2520000" />
-      <workItem from="1602359607671" duration="3197000" />
+      <workItem from="1602359607671" duration="3521000" />
+      <workItem from="1602363828593" duration="5273000" />
     </task>
     <servers />
   </component>
@@ -185,10 +189,10 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="558" y="297" width="321" height="207" key="WebDeployment.AddServerDialog.v.1/72.27.1294.741@72.27.1294.741" timestamp="1602158587083" />
-    <state x="579" y="295" width="260" height="233" key="publish.login" timestamp="1602359639715">
+    <state x="579" y="295" width="260" height="233" key="publish.login" timestamp="1602363937548">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="579" y="295" width="260" height="233" key="publish.login/72.27.1294.741@72.27.1294.741" timestamp="1602359639715" />
+    <state x="579" y="295" width="260" height="233" key="publish.login/72.27.1294.741@72.27.1294.741" timestamp="1602363937548" />
     <state x="382" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602360300837">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
