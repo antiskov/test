@@ -9,11 +9,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f0be609-f836-42fd-8a35-c4f4d5f657ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/views/partials/paginate.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/BlogController.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/custom/packages/main/src/Controllers/BlogController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/custom/packages/main/plugins/evoAjax.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/custom/packages/main/plugins/evoAjax.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/custom/packages/main/src/MainServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/custom/packages/main/src/MainServiceProvider.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/partials/newsitem.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/newsitem.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/form/ContactForm.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/form/ContactForm.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/form/successTpl.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/form/successTpl.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/paginate.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/paginate.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +57,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/views/layouts" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -82,7 +85,8 @@
       <workItem from="1602242743983" duration="34640000" />
       <workItem from="1602299189819" duration="45000" />
       <workItem from="1602299463662" duration="950000" />
-      <workItem from="1602320229581" duration="2385000" />
+      <workItem from="1602320229581" duration="2520000" />
+      <workItem from="1602359607671" duration="3197000" />
     </task>
     <servers />
   </component>
@@ -165,10 +169,14 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="196" y="86" width="1035" height="629" key="MergeDialog/72.27.1294.741@72.27.1294.741" timestamp="1602323412791" />
-    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1602164303878">
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1602360287556">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1602164303878" />
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1602360287556" />
+    <state x="562" y="312" width="303" height="178" key="VCS.ChangelistChooser" timestamp="1602362183338">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="562" y="312" width="303" height="178" key="VCS.ChangelistChooser/72.27.1294.741@72.27.1294.741" timestamp="1602362183338" />
     <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1602300379026">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
@@ -177,14 +185,14 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="558" y="297" width="321" height="207" key="WebDeployment.AddServerDialog.v.1/72.27.1294.741@72.27.1294.741" timestamp="1602158587083" />
-    <state x="579" y="295" width="260" height="233" key="publish.login" timestamp="1602323328314">
+    <state x="579" y="295" width="260" height="233" key="publish.login" timestamp="1602359639715">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="579" y="295" width="260" height="233" key="publish.login/72.27.1294.741@72.27.1294.741" timestamp="1602323328314" />
-    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602300251037">
+    <state x="579" y="295" width="260" height="233" key="publish.login/72.27.1294.741@72.27.1294.741" timestamp="1602359639715" />
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602360300837">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup/72.27.1294.741@72.27.1294.741" timestamp="1602300251037" />
+    <state x="382" y="89" width="672" height="678" key="search.everywhere.popup/72.27.1294.741@72.27.1294.741" timestamp="1602360300837" />
     <state x="444" y="311" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602020095886">
       <screen x="72" y="27" width="1294" height="741" />
     </state>

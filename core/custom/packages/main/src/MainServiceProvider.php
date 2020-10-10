@@ -26,9 +26,9 @@ class MainServiceProvider extends ServiceProvider
             dirname(__DIR__) . '/chunks/',
             $this->namespace
         );*/
-        /*$this->loadPluginsFrom(
+        $this->loadPluginsFrom(
             dirname(__DIR__) . '/plugins/'
-        );*/
+        );
         //use this code for each module what you want add
         /*$this->app->registerModule(
             'module from file',

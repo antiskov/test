@@ -12,7 +12,6 @@
                 <li><a href="@makeUrl($modx->documentIdentifier)?page={{ $i }}">{{ $i }}</a></li>
             @endif
         @endfor
-
         @if($paginate['last'] == $paginate['current'])
             <li><span> > </span></li>
         @else

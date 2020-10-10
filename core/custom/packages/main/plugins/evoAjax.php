@@ -27,9 +27,9 @@ Event::listen('evolution.OnPageNotFound', function ($params){
                         'required' => 'Enter your question',
                     ]
                 ],
-                'successTpl' => '@B_File:form/successTpl',
-                'formTpl' => '@B_File:form/ContactForm',
-                'reportTpl' => '@B_File:form/ContactFormReport',
+                'successTpl' => '@B_FILE:form/successTpl',
+                'formTpl' => '@B_FILE:form/ContactForm',
+                'reportTpl' => '@B_FILE:form/ContactFormReport',
                 'templatePath' => 'views/'
             ));
             die();

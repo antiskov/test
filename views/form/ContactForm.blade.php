@@ -1,3 +1,6 @@
+@if(isset($FormLister) && $FormLister->getFormStatus())
+    <h2>Thank you!</h2>
+@endif
 <form action="post">
     <h2>Get Answer</h2>
     <input type="hidden" name="formid" value="ContactForm">
